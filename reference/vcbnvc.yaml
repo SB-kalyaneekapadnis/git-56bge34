@@ -62,7 +62,7 @@ paths:
                   x-stoplight:
                     id: 0cq8yoxu4l2m1
                 hgbv:
-                  type: string
+                  $ref: 'https://integration.stoplight-dev.com/api/v1/projects/newint/git-3fdse3/nodes/reference/jhvukh.yaml/components/schemas/User?mid=4813'
                   x-stoplight:
                     id: thkw5lr068435
                 cvbn:
