@@ -1,0 +1,21 @@
+title: model-123
+x-stoplight:
+  id: 273i2hkrmowcz
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: g0f5usymjlaqv
+  gfh:
+    type: string
+    x-stoplight:
+      id: 5zgicxrdld5wq
+  yhfgf:
+    type: string
+    x-stoplight:
+      id: 8pn6ek0mw4rx6
+  jhgbv:
+    type: string
+    x-stoplight:
+      id: 6r7ugtu6ah482
